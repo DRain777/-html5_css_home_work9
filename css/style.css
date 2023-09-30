@@ -299,7 +299,7 @@ body {
     width: 1600px;
     ;
     height: 448px;
-    background: url(/img/subscribe/subscribe_background.webp), 0 -169px /100% 246.875% no-repeat lightgray;
+    background: url(./subscribe_background.webp), 0 -169px /100% 246.875% no-repeat lightgray;
     display: flex;
     justify-content: center;
     align-items: center;
